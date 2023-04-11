@@ -1,0 +1,7 @@
+Programacion,Pedro,Gabriel
+Programacion,Pedro,Lucas
+Programacion,Pedro,Juan
+Sistemas,Santiago,Gabriel
+Tesis,Carlos,Jose
+Matematicas,Berenice,Maxi
+Matematicas,Berenice,Juan

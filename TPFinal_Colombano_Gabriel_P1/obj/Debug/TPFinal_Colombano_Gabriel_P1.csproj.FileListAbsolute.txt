@@ -1,0 +1,13 @@
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.csproj.AssemblyReference.cache
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.FormCursos.resources
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.Properties.Resources.resources
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.csproj.GenerateResource.cache
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.csproj.CoreCompileInputs.cache
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\bin\Debug\TPFinal_Colombano_Gabriel_P1.exe.config
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\bin\Debug\TPFinal_Colombano_Gabriel_P1.exe
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\bin\Debug\TPFinal_Colombano_Gabriel_P1.pdb
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.exe
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.pdb
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.FormModifica.resources
+C:\Users\gabic\source\repos\TPFinal_Colombano_Gabriel_P1\obj\Debug\TPFinal_Colombano_Gabriel_P1.ListarCurso.resources

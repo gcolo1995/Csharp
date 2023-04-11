@@ -1,0 +1,8 @@
+Tesis,Carlos,Juan
+Matematicas,BERENICE,Fabricio
+Matematicas,BERENICE,GABRIEL
+Programación,Pedro,Maxi
+Programación,Pedro,Fabricio
+Historia,BERENICE,GABRIEL
+FISICA,Carlos,Juan
+Programación,Pedro,GABRIEL
