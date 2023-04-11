@@ -1,0 +1,8 @@
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\bin\Debug\ColombanoGabrielProg1.exe.config
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\bin\Debug\ColombanoGabrielProg1.exe
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\bin\Debug\ColombanoGabrielProg1.pdb
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\obj\Debug\ColombanoGabrielProg1.csproj.AssemblyReference.cache
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\obj\Debug\ColombanoGabrielProg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\obj\Debug\ColombanoGabrielProg1.csproj.CoreCompileInputs.cache
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\obj\Debug\ColombanoGabrielProg1.exe
+C:\Users\gabic\source\repos\ColombanoGabrielProg1\obj\Debug\ColombanoGabrielProg1.pdb
